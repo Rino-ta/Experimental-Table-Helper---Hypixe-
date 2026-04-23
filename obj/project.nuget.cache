@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rm3e6mM5o68=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asasi\\.dotnet\\experience\\experience.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asasi\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.2\\microsoft.win32.systemevents.10.0.2.nupkg.sha512",
+    "C:\\Users\\asasi\\.nuget\\packages\\opencvsharp4\\4.11.0.20250507\\opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\asasi\\.nuget\\packages\\opencvsharp4.runtime.win\\4.11.0.20250507\\opencvsharp4.runtime.win.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\asasi\\.nuget\\packages\\opencvsharp4.windows\\4.11.0.20250507\\opencvsharp4.windows.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\asasi\\.nuget\\packages\\system.drawing.common\\10.0.2\\system.drawing.common.10.0.2.nupkg.sha512",
+    "C:\\Users\\asasi\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
